@@ -16,7 +16,7 @@ My goal is to help organizations enhance productivity by delivering high-quality
 
 I’m committed to continuous improvement, and I'm always eager to learn and explore new technologies that drive innovation in the Cloud, DevOps, AI/ML space.
 
-In addition to my professional work, I actively share through blog posts, and recently started demos on Youtube. I am enthusiastic about delivering business value through innovative software solutions and empowering others in the tech community.
+In addition to my professional work, I actively share through blog posts, and recently started demo workshops on Youtube. I am enthusiastic about delivering business value through innovative software solutions and empowering others in the tech community.
 
 
 #### Tools
