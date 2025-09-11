@@ -16,12 +16,11 @@ My goal is to help organizations enhance productivity by delivering high-quality
 
 I’m committed to continuous improvement, and I'm always eager to learn and explore new technologies that drive innovation in the DevOps, Cloud, AI/ML space.
 
-In addition to my professional work, I actively share through blog posts, and workshops. I am enthusiastic about delivering business value through innovative software solutions and empowering others in the tech community.
+In addition to my professional work, I actively share through blog posts, and demonstration workshops. I am enthusiastic about delivering business value through innovative software solutions and empowering others in the tech community.
 
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
@@ -47,7 +46,6 @@ In addition to my professional work, I actively share through blog posts, and wo
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
-[![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 
 
