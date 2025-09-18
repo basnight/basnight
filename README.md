@@ -50,10 +50,6 @@ In addition to my professional work, I actively share through blog posts, and de
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 
 
-#### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=basnight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
