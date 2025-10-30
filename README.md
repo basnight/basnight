@@ -8,9 +8,7 @@
 
 I’m a passionate DevOps/Cloud Engineer experience in driving seamless automation, optimizing cloud infrastructures, and accelerating software delivery cycles. 
 
-With a foundation in Application Support, I specialize in building Continuous Integration and Continuous Delivery (CI/CD) pipelines, automating complex deployments, and leveraging cloud services to create scalable and reliable solutions. 
-
-I thrive on transforming manual processes into efficient automated workflows, using tools like Terraform, Docker, Kubernetes, Jenkins, and Ansible. 
+With a foundation in Application Support, I specialize in building Continuous Integration and Continuous Delivery (CI/CD) pipelines, automating complex deployments, and leveraging cloud services to create scalable and reliable solutions.  
 
 My goal is to help organizations enhance productivity by delivering high-quality, mission-critical software with speed and precision.
 
