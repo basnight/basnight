@@ -48,8 +48,6 @@ In addition to my professional work, I actively share through blog posts, and de
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
