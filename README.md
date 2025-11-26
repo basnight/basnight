@@ -6,7 +6,7 @@
 
 #### About
 
-I’m a passionate Cloud/DevOps Engineer experience in driving seamless automation, optimizing cloud infrastructures, and accelerating software delivery cycles. 
+I’m a passionate Cloud/DevOps Engineer with experience in driving seamless automation, optimizing cloud infrastructures, and accelerating software delivery cycles. 
 
 With a foundation in Application Support, I specialize in building Continuous Integration and Continuous Delivery (CI/CD) pipelines, automating complex deployments, and leveraging cloud services to create scalable and reliable solutions.  
 
@@ -46,6 +46,8 @@ In addition to my professional work, I actively share through blog posts, and de
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
+
+
 
 
 <p align="center">
